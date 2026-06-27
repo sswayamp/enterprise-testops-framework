@@ -17,7 +17,7 @@
         <cucumber.version>7.34.3</cucumber.version>
         <webdrivermanager.version>6.3.4</webdrivermanager.version>
         <slf4j.version>2.0.17</slf4j.version>
-        <logback.version>1.5.34</logback.version>
+        <logback.version>1.5.37</logback.version>
         <allure.version>2.33.0</allure.version>
     </properties>
 
